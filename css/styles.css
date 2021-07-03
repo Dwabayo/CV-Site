@@ -1,0 +1,25 @@
+body {
+background-color:#F7DAD9;
+}
+
+h1 {
+  color: #CD113B;font-style: normal;
+}
+
+h3 {
+  color: #CD113B;
+}
+
+h4 {
+  color: #CD113B;
+}
+
+img {border-radius: 50%}
+
+hr {
+border-style: dotted none none;
+height:1px;
+width:15%;
+border-color:grey;
+border-width:3px;
+}
